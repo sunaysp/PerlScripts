@@ -13,7 +13,7 @@
 
 2. Check out 'PatchTool' folder from svn. 
 	i. Run the below command in command prompt if svn client is installed or checkout from Tortoise SVN. 
-		EX: svn checkout http://blrvlin03.misys.global.ad/svn/repos/connect_portal/hie_in_a_box/Scripts/PatchTool
+		EX: svn checkout http://.../Scripts/PatchTool
 		
 4. set all the environment variables in patch.properties file. 
 	 i. fromtag - Assign old tag name. 
