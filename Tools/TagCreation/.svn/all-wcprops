@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/TagCreation
+END
+editbuild.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/TagCreation/editbuild.pl
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/TagCreation/config.properties
+END
+createtag.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/TagCreation/createtag.bat
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/TagCreation/readme.txt
+END

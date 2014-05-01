@@ -1,0 +1,130 @@
+10
+
+dir
+7768
+http://blrvlin03.misys.global.ad/svn/repos/connect_portal/hie_in_a_box/Tools/PatchTool/FolderStructure/Liferay/jboss-as/server/default/deploy/HIEPortalNew-theme.war/images
+http://blrvlin03.misys.global.ad/svn/repos/connect_portal
+
+
+
+2012-06-25T05:21:07.647373Z
+6624
+sunaysp0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cdab2dec-b5e6-4f1f-8538-3f90ad54b6a2
+
+dock
+dir
+
+add_content
+dir
+
+trees
+dir
+
+language
+dir
+
+file_system
+dir
+
+progress_bar
+dir
+
+bookmarks
+dir
+
+portlet
+dir
+
+control_panel
+dir
+
+emoticons
+dir
+
+image_gallery
+dir
+
+application
+dir
+
+ratings
+dir
+
+messages
+dir
+
+diff
+dir
+
+arrows
+dir
+
+aui
+dir
+
+message_boards
+dir
+
+mail
+dir
+
+social_bookmarks
+dir
+
+color_schemes
+dir
+
+shadow
+dir
+
+forms
+dir
+
+shopping
+dir
+
+enterprise_admin
+dir
+
+common
+dir
+
+navigation
+dir
+
+newhieportal
+dir
+
+document_library
+dir
+
+wiki
+dir
+
+dockbar
+dir
+
+blogs
+dir
+
+calendar
+dir
+
+journal
+dir
+

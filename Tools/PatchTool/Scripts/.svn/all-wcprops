@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/Scripts
+END
+HIEservice.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/Scripts/HIEservice.pl
+END
+portlets.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/Scripts/portlets.pl
+END
+AntBuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/Scripts/AntBuild.bat
+END
+remoteservices.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/Scripts/remoteservices.pl
+END
+ext.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/Scripts/ext.pl
+END
+dobuild.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/Scripts/dobuild.pl
+END
+hooks.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/Scripts/hooks.pl
+END
+services.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/Scripts/services.pl
+END

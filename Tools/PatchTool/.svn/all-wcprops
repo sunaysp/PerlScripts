@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool
+END
+createpatch.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/createpatch.bat
+END
+patch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/patch.properties
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/connect_portal/!svn/ver/6682/hie_in_a_box/Tools/PatchTool/readme.txt
+END

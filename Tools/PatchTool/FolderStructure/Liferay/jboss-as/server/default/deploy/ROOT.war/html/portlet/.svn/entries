@@ -1,0 +1,265 @@
+10
+
+dir
+7768
+http://blrvlin03.misys.global.ad/svn/repos/connect_portal/hie_in_a_box/Tools/PatchTool/FolderStructure/Liferay/jboss-as/server/default/deploy/ROOT.war/html/portlet
+http://blrvlin03.misys.global.ad/svn/repos/connect_portal
+
+
+
+2012-06-25T05:21:07.647373Z
+6624
+sunaysp0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cdab2dec-b5e6-4f1f-8538-3f90ad54b6a2
+
+page_comments
+dir
+
+control_panel_menu
+dir
+
+top_users
+dir
+
+invitation
+dir
+
+communities
+dir
+
+expando
+dir
+
+recent_documents
+dir
+
+loan_calculator
+dir
+
+page_ratings
+dir
+
+search
+dir
+
+unit_converter
+dir
+
+breadcrumb
+dir
+
+login
+dir
+
+my_places
+dir
+
+asset_tags_navigation
+dir
+
+announcements
+dir
+
+message_boards
+dir
+
+web_proxy
+dir
+
+hello_velocity
+dir
+
+workflow_instances
+dir
+
+software_catalog
+dir
+
+tasks
+dir
+
+layout_prototypes
+dir
+
+enterprise_admin
+dir
+
+wiki_display
+dir
+
+flags
+dir
+
+site_map
+dir
+
+my_account
+dir
+
+document_library
+dir
+
+iframe
+dir
+
+activities
+dir
+
+layout_configuration
+dir
+
+dictionary
+dir
+
+blogs
+dir
+
+rss
+dir
+
+blogs_aggregator
+dir
+
+password_generator
+dir
+
+journal
+dir
+
+plugin_installer
+dir
+
+requests
+dir
+
+language
+dir
+
+asset_category_admin
+dir
+
+bookmarks
+dir
+
+polls
+dir
+
+translator
+dir
+
+network
+dir
+
+asset_publisher
+dir
+
+words
+dir
+
+xsl_content
+dir
+
+image_gallery
+dir
+
+quick_note
+dir
+
+directory
+dir
+
+journal_content
+dir
+
+workflow_definitions
+dir
+
+social
+dir
+
+update_manager
+dir
+
+workflow_tasks
+dir
+
+portlet_configuration
+dir
+
+amazon_rankings
+dir
+
+currency_converter
+dir
+
+social_equity_admin
+dir
+
+workflow_definition_links
+dir
+
+shopping
+dir
+
+page_flags
+dir
+
+admin
+dir
+
+journal_content_search
+dir
+
+navigation
+dir
+
+layout_set_prototypes
+dir
+
+journal_articles
+dir
+
+portlet_css
+dir
+
+asset_categories_navigation
+dir
+
+wiki
+dir
+
+recent_bloggers
+dir
+
+portlet_sharing
+dir
+
+dockbar
+dir
+
+asset_tags_admin
+dir
+
+calendar
+dir
+
+polls_display
+dir
+
+nested_portlets
+dir
+
